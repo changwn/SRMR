@@ -36,10 +36,3 @@ If you find the code helpful in your resarch or work, please cite the following 
 (wnchang@iu.edu)
 
 PhD candidate at BDR group, Indiana University School of Medicine
-
-- [Chi Zhang](https://medicine.iu.edu/departments/genetics/faculty/27057/zhang-chi/)
-(czhang87@iu.edu)
-
-Assistant Professor
-
-Department of Medical & Molecular Genetics, Indiana University School of Medicine
